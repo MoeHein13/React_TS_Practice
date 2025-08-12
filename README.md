@@ -12,8 +12,6 @@ This app uses `BrowserRouter` with a specific `basename`:
 <BrowserRouter basename="/ReactPractice_Project_1/Practice-React-1/">
 ```
 
-Make sure to set the same base path when deploying to platforms like GitHub Pages, Netlify, or Vercel.
-
 ---
 
 ## Tech Stack
