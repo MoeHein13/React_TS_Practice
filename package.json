@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MoeHein13.github.io/ReactPractice_Project_1/",
+  "homepage": "https://MoeHein13.github.io/ReactPractice_Project_1/Practice-React-1",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
