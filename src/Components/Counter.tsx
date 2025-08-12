@@ -1,7 +1,7 @@
 import React, { useReducer } from "react";
 import { Link } from "react-router-dom";
 
-const Counter: React.FC = () => {
+const Counter = () => {
   type CounterState = {
     count: number;
     valueToAdd: number;
